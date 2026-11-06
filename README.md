@@ -30,11 +30,6 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wilneto&show_icons=true&theme=github_dark&hide_border=true&count_private=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilneto&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=wilneto&theme=github-dark-blue&hide_border=true&locale=pt_BR" />
 </p>
 
